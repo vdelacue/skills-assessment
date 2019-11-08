@@ -23,12 +23,13 @@ html {
 
   /* Header */
   header h1{
-    color: #fefefe;
+    color: #86ce21;
     font-size: 45px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     text-align: center;
     margin: 50px 20px;
+
   }
 
   /* Image gallery stlyling */
